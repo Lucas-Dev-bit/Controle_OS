@@ -1,0 +1,114 @@
+-------------------------------------------------
+- DATA DO ERRO: 17/07/21
+- HORA DO ERRO: 17:30
+- FUNÇÃO DO ERRO: CadastrarModelo
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nomeq_modelo' in 'field list'
+-------------------------------------------------
+- DATA DO ERRO: 17/07/21
+- HORA DO ERRO: 17:41
+- FUNÇÃO DO ERRO: CadastrarSetor
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_controle_os.tb_setorq' doesn't exist
+-------------------------------------------------
+- DATA DO ERRO: 17/07/21
+- HORA DO ERRO: 18:59
+- FUNÇÃO DO ERRO: CadastrarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'indent_equip' in 'field list'
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:33
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:33
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:33
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:34
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:34
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:35
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:36
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:36
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 20/09/21
+- HORA DO ERRO: 15:37
+- FUNÇÃO DO ERRO: AlocarEquipamento
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_alocarequip`, CONSTRAINT `fk_tb_alocarequip_tb_setor1` FOREIGN KEY (`id_setor`) REFERENCES `tb_setor` (`id_setor`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+-------------------------------------------------
+- DATA DO ERRO: 24/09/21
+- HORA DO ERRO: 16:07
+- FUNÇÃO DO ERRO: RemoverEquipamentoSetor
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data_removar' in 'field list'
+-------------------------------------------------
+- DATA DO ERRO: 24/09/21
+- HORA DO ERRO: 16:07
+- FUNÇÃO DO ERRO: RemoverEquipamentoSetor
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data_removar' in 'field list'
+-------------------------------------------------
+- DATA DO ERRO: 24/09/21
+- HORA DO ERRO: 16:08
+- FUNÇÃO DO ERRO: RemoverEquipamentoSetor
+- CÓD. LOGADO: 1
+- MSG ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data_removar' in 'field list'
+-------------------------------------------------
+- DATA DO ERRO: 21/10/21
+- HORA DO ERRO: 14:36
+- FUNÇÃO DO ERRO: AbrirChamado
+- CÓD. LOGADO: 6
+- MSG ERRO: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'db_controle_os.tb_chamdo' doesn't exist
+-------------------------------------------------
+- DATA DO ERRO: 21/10/21
+- HORA DO ERRO: 14:37
+- FUNÇÃO DO ERRO: AbrirChamado
+- CÓD. LOGADO: 6
+- MSG ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data_chamdo' in 'field list'
+-------------------------------------------------
+- DATA DO ERRO: 21/10/21
+- HORA DO ERRO: 14:37
+- FUNÇÃO DO ERRO: AbrirChamado
+- CÓD. LOGADO: 6
+- MSG ERRO: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'desc_chamado' in 'field list'
+-------------------------------------------------
+- DATA DO ERRO: 21/10/21
+- HORA DO ERRO: 14:49
+- FUNÇÃO DO ERRO: AbrirChamado
+- CÓD. LOGADO: 6
+- MSG ERRO: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`db_controle_os`.`tb_chamado`, CONSTRAINT `fk_tb_chamado_tb_funcionario1` FOREIGN KEY (`id_usuario_func`) REFERENCES `tb_funcionario` (`id_usuario_func`) ON DELETE NO ACTION ON UPDATE NO ACTIO)
